@@ -1,0 +1,19 @@
+h3{
+	color:red;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	padding: 25px;
+	text-align: center;
+	cursor: pointer;
+}
+.text_ani{
+	background-color: red;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	display: none;
+}
